@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@700&family=Spartan:wght@700&display=swap');
+@import "container";
+@import "top";
+@import "value";
+@import "buttons";
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Spartan', sans-serif;
+}
+.back1{
+    background-color: hsl(222, 26%, 31%);
+}
+.back2{
+    background-color: hsl(0, 0%, 90%);
+}
+.back3{
+    background-color: hsl(268, 75%, 9%);
+}
